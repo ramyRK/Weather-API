@@ -2,7 +2,8 @@ Weather API Project
 
 This project is a simple RESTful API for fetching weather data built using Django and Django REST Framework (DRF). It allows users to retrieve current weather information for a specified city by integrating with a third-party weather service. The API uses Redis to cache responses and environment variables to securely manage configuration settings.
 
-Project URL: https://roadmap.sh/projects/weather-api-wrapper-service
+Project URL: [Weather API Project](https://roadmap.sh/projects/weather-api-wrapper-service)
+
 
 Features
 
