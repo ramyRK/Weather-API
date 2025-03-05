@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 django = "*"
 djangorestframework = "*"
+django-environ = "*"
+redis = "*"
+requests = "*"
 
 [dev-packages]
 
